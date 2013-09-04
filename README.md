@@ -31,7 +31,7 @@ Configure the folders of images to use when generating the thumbs, these setting
 ```
     
 // View Code
-<img alt="imagem" src="/thumbnail/nameModuleConfigFolder/250/150/8:5/imagem.jpg">
+< img alt="imagem" src="/thumbnail/nameModuleConfigFolder/250/150/8:5/imagem.jpg" >
 
 exemplo da url
 htttp://www.seusite.com.br/thumbnail/produtos-home/250/150/8:5/imagem.jpg
