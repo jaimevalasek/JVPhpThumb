@@ -52,5 +52,7 @@ class IndexController extends AbstractActionController
                 exit;
             }
         }
+        
+        //$this->getEvent()->stopPropagation()
     }
 }
