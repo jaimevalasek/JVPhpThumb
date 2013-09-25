@@ -2,7 +2,7 @@
 
 namespace JVPhpThumb\Controller;
 
-use JVPhpThumb\Library\PhpThumb;
+use JVPhpThumb\Service\PhpThumb;
 
 use Zend\Mvc\Controller\AbstractActionController;
 

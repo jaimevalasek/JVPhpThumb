@@ -25,7 +25,7 @@ return array(
 	),
     'php_thumb' => array (
         'thumbnail_folder' => array(
-            'produto-pagina-inicial' => '/conteudos/thumbs/'    
+            'produto-pagina-inicial' => '/conteudos/imagens/'    
         ),
         'cache' => true,
     ),

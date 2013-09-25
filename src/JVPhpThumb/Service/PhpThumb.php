@@ -13,7 +13,7 @@
 // Date: September 4, 2013
 // Based on: http://shiftingpixel.com/2008/03/03/smart-image-resizer/
 
-namespace JVPhpThumb\Library;
+namespace JVPhpThumb\Service;
 
 class PhpThumb
 {
