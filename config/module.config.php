@@ -23,10 +23,4 @@ return array(
 			'JVPhpThumb\Controller\Index' => 'JVPhpThumb\Controller\IndexController',
 		),
 	),
-    'php_thumb' => array (
-        'thumbnail_folder' => array(
-            'produto-pagina-inicial' => '/conteudos/imagens/'    
-        ),
-        'cache' => true,
-    ),
 );

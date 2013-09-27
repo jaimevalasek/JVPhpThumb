@@ -1,0 +1,30 @@
+{
+    "name": "jaimevalasek/jv-php-thumb",
+    "description": "Use this module to generate thumbnail to apply the images on your website.",
+    "license": "BSD-3-Clause",
+    "type": "library",
+    "keywords": [
+        "zf2", "Crear thumbnail dynamically", "jaimevalasek"
+    ],
+    "homepage": "https://github.com/jaimevalasek/JVPhpThumb",
+    "authors": [
+        {
+            "name": "Jaime Marcelo Valasek",
+            "email": "jaime.valasek@gmail.com",
+            "homepage": "http://valasek.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*",
+        "jaimevalasek/jv-config": "dev-master"
+    },    
+    "autoload": {
+        "psr-0": {
+            "JVPhpThumb": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
